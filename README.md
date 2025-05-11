@@ -1,5 +1,5 @@
 # dsb-batch11
-##Data Scienct Bootcamp Projects
+## Data Scienct Bootcamp Projects
 
 This bootcapm runs about 4 months, 10 sprint.
 
