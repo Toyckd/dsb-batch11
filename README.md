@@ -19,7 +19,6 @@ I love `R programing`. (in line code)
 ``` sql
 SELECT "hello world" FROM bootcamp;e
 ```
-### here is markdown guide
-https://www.markdownguide.org/basic-syntax/
+Here is markdown guide: https://www.markdownguide.org/basic-syntax/
 
 Email: chakrid.t@gmail.com
