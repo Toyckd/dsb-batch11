@@ -13,12 +13,14 @@ This bootcapm runs about 4 months, 10 sprint.
 - Python
 - Dashborad
 
+## Try to use github for beginner
 I love `R programing`. (in line code)
 
 ## Code Block
 ``` sql
-SELECT "hello world" FROM bootcamp;e
+SELECT "hello world" FROM bootcamp;
 ```
 Here is markdown guide: https://www.markdownguide.org/basic-syntax/
 
 Email: chakrid.t@gmail.com
+
