@@ -1,5 +1,5 @@
 # dsb-batch11
-Data Scienct Bootcamp Projects
+##Data Scienct Bootcamp Projects
 
 This bootcapm runs about 4 months, 10 sprint.
 
@@ -17,7 +17,7 @@ I love `R programing`. (in line code)
 
 ## Code Block
 ``` sql
-SELECT "hello world" FROM bootcamp;
+SELECT "hello world" FROM bootcamp;e
 ```
 
 Email: chakrid.t@gmail.com
