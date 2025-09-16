@@ -31,4 +31,4 @@ Email: chakrid.t@gmail.com
 ![Deadpool](https://ew.com/thmb/3eoGKEgI3NBRt10ROHPWi1v-I2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Deadpool-050724-869ff7366a5f470ba61752c460e2935e.jpg)
 
 ## 
-![Deadpool[(https://img10.hotstar.com/image/upload/f_auto,q_auto/sources/r1/cms/prod/1326/1371326-i-c802b043bc6b.jpg)
+![Deadpool[(https://img10.hotstar.com/image/upload/f_auto,q_auto/sources/r1/cms/prod/1326/1371326-i-c802b043bc6b)
